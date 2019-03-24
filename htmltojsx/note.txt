@@ -1,0 +1,19 @@
+LifeCycle là một vòng đời của Coponent 
+React JS đã định nghĩa sẵn một số hàm. 
+Phải học thuộc.
+
+Chia làm 4 phần chúng tương ứng với 4 tiến trình hoạt động của MỘT Component
+
++) init 
+.Khởi tạo Component
+.đặt biến, khai báo state, lấy props.
++) Mounting
+.Hiển thị các Component
+.Trước khi hiển thị.
+.Lúc hiển thị ra.
+.Sau khi hiển thị.
+
++) Updating
+Thao tác với các giá trị
++) UnMounting
+Hủy bỏ gắn kết

@@ -1,0 +1,39 @@
+[
+    {
+        "id" : 1,
+        "name" : "Minh Hiếu 1",
+        "tel"  : "0972715306",
+        "permission" : 1
+    },
+    {
+        "id" : 2,
+        "name" : "Minh Hiếu 2",
+        "tel"  : "0972715306",
+        "permission" : 2
+    },
+    {
+        "id" : 3,
+        "name" : "Minh Hiếu 3",
+        "tel"  : "0972715306",
+        "permission" : 3
+    },
+    {
+        "id" : 4,
+        "name" : "Minh Hiếu 4",
+        "tel"  : "0972715306",
+        "permission" : 1
+    },
+    {
+        "id" : 5,
+        "name" : "Minh Hiếu 5",
+        "tel"  : "0972715306",
+        "permission" : 3
+    },
+    {
+        "id" : 6,
+        "name" : "Man 5",
+        "tel"  : "0972715306",
+        "permission" : 3
+    }
+    
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "tittle": "Cháy khách sạn 8 tầng ở Nghệ An",
+        "description": "Ngọn lửa bùng phát cùng cuộn khói cao cả chục mét phía trên khách sạn ở trung tâm thành phố Vinh.",
+        "content": "Tại hiện trường, cảnh sát phong tỏa khu vực cổng ra vào khách sạn. Theo nhân chứng, lực lượng chức năng đã đưa 3 khách lưu trú ra ngoài và còn ít nhất một người kẹt bên trong khách sạn.",
+        "img": "https://i-vnexpress.vnecdn.net/2019/03/18/54018131-1046170315568858-6093-8408-9827-1552885108.jpg"
+    },
+    {
+        "id": 2,
+        "tittle": "Tiêu Đề Tin 2",
+        "description": "Mô tả Tin 2",
+        "content": "Tại hiện trường, cảnh sát phong tỏa khu vực cổng ra vào khách sạn. Theo nhân chứng, lực lượng chức năng đã đưa 3 khách lưu trú ra ngoài và còn ít nhất một người kẹt bên trong khách sạn.",
+        "img": "https://i-vnexpress.vnecdn.net/2019/03/18/54018131-1046170315568858-6093-8408-9827-1552885108.jpg"
+    },
+    {
+        "id": 3,
+        "tittle": "Tiêu Đề Tin 3",
+        "description": "Mô tả Tin 3",
+        "content": "Tại hiện trường, cảnh sát phong tỏa khu vực cổng ra vào khách sạn. Theo nhân chứng, lực lượng chức năng đã đưa 3 khách lưu trú ra ngoài và còn ít nhất một người kẹt bên trong khách sạn.",
+        "img": "https://i-vnexpress.vnecdn.net/2019/03/18/54018131-1046170315568858-6093-8408-9827-1552885108.jpg"
+    },
+    {
+        "id": 4,
+        "tittle": "Tiêu Đề Tin 4",
+        "description": "Mô tả Tin 4",
+        "content": "Tại hiện trường, cảnh sát phong tỏa khu vực cổng ra vào khách sạn. Theo nhân chứng, lực lượng chức năng đã đưa 3 khách lưu trú ra ngoài và còn ít nhất một người kẹt bên trong khách sạn.",
+        "img": "https://i-vnexpress.vnecdn.net/2019/03/18/54018131-1046170315568858-6093-8408-9827-1552885108.jpg"
+    },
+    {
+        "id": 5,
+        "tittle": "Tiêu Đề Tin 5",
+        "description": "Mô tả Tin 5",
+        "content": "Tại hiện trường, cảnh sát phong tỏa khu vực cổng ra vào khách sạn. Theo nhân chứng, lực lượng chức năng đã đưa 3 khách lưu trú ra ngoài và còn ít nhất một người kẹt bên trong khách sạn.",
+        "img": "https://i-vnexpress.vnecdn.net/2019/03/18/54018131-1046170315568858-6093-8408-9827-1552885108.jpg"
+    },
+    {
+        "id": 6,
+        "tittle": "Tiêu Đề Tin 6",
+        "description": "Mô tả Tin 6",
+        "content": "Tại hiện trường, cảnh sát phong tỏa khu vực cổng ra vào khách sạn. Theo nhân chứng, lực lượng chức năng đã đưa 3 khách lưu trú ra ngoài và còn ít nhất một người kẹt bên trong khách sạn.",
+        "img": "https://i-vnexpress.vnecdn.net/2019/03/18/54018131-1046170315568858-6093-8408-9827-1552885108.jpg"
+    }
+]
